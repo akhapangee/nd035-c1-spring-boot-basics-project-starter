@@ -1,3 +1,7 @@
+# Final Project for Spring Boot Basics Module : Udacity Java Web Developer Nanodegree program
+The starter skeleton code is cloned from repository: https://github.com/udacity/nd035-c1-spring-boot-basics-project-starter/tree/master/starter/cloudstorage
+
+**Project specification** : https://github.com/akhapangee/nd035-c1-spring-boot-basics-project-starter/blob/master/Project%20specification.pdf
 # Super*Duper*Drive Cloud Storage
 You have been hired by Super*Duper*Drive, which is a brand new company aiming to make a dent in the Cloud Storage market and is already facing stiff competition from rivals like Google Drive and Dropbox. That hasn't dampened their spirits at all, however. They want to include personal information management features in their application to differentiate them from the competition, and the minimum viable product includes three user-facing features:
 
